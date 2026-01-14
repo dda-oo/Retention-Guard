@@ -1,0 +1,11 @@
+employee_id,dept,tenure_months,last_promotion_months,salary_band,manager_span,overtime_hours_month,engagement_score,absenteeism_days_month,peer_turnover_rate,performance_score,internal_mobility
+E1001,Sales,18,14,B,7,14.2,61.5,2.1,0.21,70.2,0
+E1002,Engineering,62,10,C,9,6.5,80.1,0.2,0.08,85.4,1
+E1003,HR,45,38,B,6,9.8,55.2,3.5,0.25,68.0,0
+E1004,Finance,120,24,D,12,4.0,75.9,1.1,0.05,90.3,1
+E1005,Ops,30,30,A,8,18.0,52.4,4.2,0.30,64.7,0
+E1006,Sales,80,50,C,10,11.4,66.8,2.4,0.17,72.9,0
+E1007,Engineering,10,10,B,5,7.2,88.5,0.0,0.04,92.6,1
+E1008,Finance,24,22,B,7,13.0,60.2,2.9,0.19,69.5,0
+E1009,HR,90,60,C,11,5.5,70.7,1.4,0.12,78.8,0
+E1010,Ops,14,14,A,6,16.3,49.8,5.0,0.33,60.4,0
