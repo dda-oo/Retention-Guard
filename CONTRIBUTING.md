@@ -7,7 +7,8 @@ Thanks for your interest in improving RadarRoster Retention Guard.
 1. Fork the repo and create a feature branch.
 2. Keep changes focused and well-scoped.
 3. Explain new metrics and data sources in the README.
-4. Preserve attribution to Daryoosh Dehestani and RadarRoster.
+4. Preserve attribution to Daryoosh Dehestani (GitHub: dda-oo) and
+   Business: RadarRoster — https://radarroster.com.
 
 ## Local preview
 
@@ -26,8 +27,9 @@ streamlit run app.py
 If you use, fork, or build upon this project, please credit:
 
 - **Daryoosh Dehestani** (GitHub: `dda-oo`)
-- **RadarRoster** (https://radarroster.com)
+- **Business: RadarRoster — https://radarroster.com**
 
 Suggested credit line:
 
-> “Based on the Retention Guard by Daryoosh Dehestani (dda-oo) and RadarRoster.”
+> “Based on Retention Guard by Daryoosh Dehestani (GitHub: dda-oo) and
+> Business: RadarRoster — https://radarroster.com.”

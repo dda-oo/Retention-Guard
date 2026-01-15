@@ -224,4 +224,7 @@ if run_btn:
     )
 
 st.markdown("---")
-st.caption("© 2026 Daryoosh Dehestani · RadarRoster")
+st.caption(
+    "© 2026 Daryoosh Dehestani (GitHub: dda-oo) · "
+    "Business: RadarRoster — https://radarroster.com"
+)

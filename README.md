@@ -1,11 +1,12 @@
-# Retention Guard
+﻿# Retention Guard
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
 [![Live Demo](https://img.shields.io/badge/demo-coming%20soon-lightgrey)](#live-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Open-source HR attrition risk scoring MVP built by **Daryoosh Dehestani** (RadarRoster).  
+Open-source HR attrition risk scoring MVP built by **Daryoosh Dehestani** (GitHub: dda-oo).  
+Business: RadarRoster â€” https://radarroster.com  
 Designed as a **B2B accelerator**: fast to adopt, easy to extend, and practical
 enough for real HR teams.
 
@@ -17,7 +18,7 @@ data-driven retention strategy without heavy setup.
 
 ## What you get
 
-- **End-to-end pipeline** (CSV → risk scores → exportable report)
+- **End-to-end pipeline** (CSV â†’ risk scores â†’ exportable report)
 - **Baseline model** with clear, explainable signals
 - **Streamlit dashboard** to demo and explore insights
 - **Synthetic data generator** for safe internal demos
@@ -127,14 +128,14 @@ Add a short demo video or Loom link here to make the project more compelling:
 
 ```
 .
-├─ app.py                     # Streamlit demo UI
-├─ data/
-│  └─ sample_hr_data.csv       # Sample input file
-├─ outputs/                    # Generated reports (gitignored)
-└─ src/retention_guard/
-   ├─ data.py                  # Data loading + synthetic generator
-   ├─ model.py                 # Model pipeline + feature importance
-   └─ pipeline.py              # CLI pipeline runner
+â”œâ”€ app.py                     # Streamlit demo UI
+â”œâ”€ data/
+â”‚  â””â”€ sample_hr_data.csv       # Sample input file
+â”œâ”€ outputs/                    # Generated reports (gitignored)
+â””â”€ src/retention_guard/
+   â”œâ”€ data.py                  # Data loading + synthetic generator
+   â”œâ”€ model.py                 # Model pipeline + feature importance
+   â””â”€ pipeline.py              # CLI pipeline runner
 ```
 
 ## How to customize
@@ -158,10 +159,13 @@ If you want help implementing any of these, reach out.
 ## Attribution
 
 If you fork, reuse, or adapt this project, please keep the original attribution
-to **Daryoosh Dehestani** and **RadarRoster**, and include a visible reference
-in your derivative work or documentation.
+to:
+
+- **Daryoosh Dehestani** (GitHub: `dda-oo`)
+- **Business: RadarRoster â€” https://radarroster.com**
 
 ## License
 
+MIT License © 2026 Daryoosh Dehestani (GitHub: dda-oo)  
+Business: RadarRoster — https://radarroster.com
 
-MIT License © 2026 Daryoosh Dehestani (RadarRoster)
