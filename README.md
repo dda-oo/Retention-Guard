@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Open-source HR attrition risk scoring MVP built by **Daryoosh Dehestani** (GitHub: dda-oo).  
-Business: RadarRoster â€” https://radarroster.com  
+Business: Business: RadarRoster — https://radarroster.com
 Designed as a **B2B accelerator**: fast to adopt, easy to extend, and practical
 enough for real HR teams.
 
@@ -168,4 +168,5 @@ to:
 
 MIT License © 2026 Daryoosh Dehestani (GitHub: dda-oo)  
 Business: RadarRoster — https://radarroster.com
+
 
