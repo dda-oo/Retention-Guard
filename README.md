@@ -5,14 +5,10 @@
 [![Live Demo](https://img.shields.io/badge/demo-coming%20soon-lightgrey)](#live-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Open-source HR attrition risk scoring MVP built by **Daryoosh Dehestani** (GitHub: dda-oo).  
-<<<<<<< HEAD
-Business: **RadarRoster** — https://radarroster.com
-=======
-Business: RadarRoster -- https://radarroster.com  
->>>>>>> 8d97619 (Finalize documentation and README cleanup)
-Designed as a **B2B accelerator**: fast to adopt, easy to extend, and practical
-enough for real HR teams.
+Open-source HR attrition risk scoring MVP built by **Daryoosh Dehestani** (GitHub: [dda-oo](https://github.com/dda-oo)).  
+**Business:** [RadarRoster](https://radarroster.com)
+
+Designed as a **B2B accelerator**: fast to adopt, easy to extend, and practical enough for real HR teams.
 
 ## Why this project exists
 
@@ -172,6 +168,7 @@ to:
 
 MIT License © 2026 Daryoosh Dehestani (GitHub: dda-oo)  
 Business: RadarRoster — https://radarroster.com
+
 
 
 
