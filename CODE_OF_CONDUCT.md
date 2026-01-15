@@ -1,24 +1,18 @@
 # Code of Conduct
 
-We are committed to creating a welcoming, respectful environment for all
-participants in this project.
+We aim to keep this project respectful and collaborative.
 
 ## Our standards
 
-We expect everyone to:
+- Be respectful and constructive.
+- Assume good intent.
+- Keep discussions focused on the work.
 
-- Be kind, constructive, and professional
-- Assume good intent
-- Respect differing opinions and backgrounds
+## Unacceptable behavior
 
-Harassment, discrimination, or abuse is not tolerated.
-
-## Scope
-
-This code of conduct applies to all project spaces, including pull requests,
-issues, and community discussions.
+- Harassment, personal attacks, or discrimination.
+- Sharing private information without consent.
 
 ## Enforcement
 
-To report an incident, open a private message with the project owner or
-include details in a GitHub issue marked as sensitive.
+If you see a problem, open an issue or contact the maintainer.

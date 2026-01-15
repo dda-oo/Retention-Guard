@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
+[![Live Demo](https://img.shields.io/badge/demo-coming%20soon-lightgrey)](#live-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Open-source HR attrition risk scoring MVP built by **Daryoosh Dehestani** (RadarRoster).  
@@ -44,7 +45,7 @@ python -m retention_guard.pipeline --generate-sample --output outputs/retention_
 python -m retention_guard.pipeline --input data/sample_hr_data.csv --output outputs/retention_scores.csv
 ```
 
-4) Launch the dashboard:
+4) Launch the Streamlit dashboard:
 
 ```
 streamlit run app.py
@@ -99,6 +100,17 @@ Retention Guard is a **prototype** and showcase. It is perfect for:
 
 It is **not** a replacement for legal or compliance review. Do not use it to
 automate decisions without human oversight.
+
+## Use cases
+
+- HR retention risk monitoring and prioritization.
+- People analytics validation of engagement and workload signals.
+- Executive dashboards for attrition trend reviews.
+
+## Live demo
+
+Coming soon. For a hosted demo, contact RadarRoster:
+https://radarroster.com/#contact
 
 ## Screenshots
 

@@ -1,46 +1,33 @@
-# Contributing to RadarRoster Retention Guard
+# Contributing
 
-Thanks for your interest in contributing. This project is intended as a clean,
-high-quality open-source showcase. Please keep contributions focused and
-practical.
-
-## Ground rules
-
-- Be respectful and constructive.
-- Keep changes small and well-scoped.
-- Avoid adding heavy dependencies unless necessary.
+Thanks for your interest in improving RadarRoster Retention Guard.
 
 ## How to contribute
 
-1) Fork the repo and create your branch:
+1. Fork the repo and create a feature branch.
+2. Keep changes focused and well-scoped.
+3. Explain new metrics and data sources in the README.
+4. Preserve attribution to Daryoosh Dehestani and RadarRoster.
+
+## Local preview
 
 ```
-git checkout -b feature/my-change
+streamlit run app.py
 ```
 
-2) Install dependencies:
+## Style & UX
 
-```
-python -m venv .venv
-source .venv/bin/activate
-pip install -e .
-```
+- Keep the UI clean and executive-friendly.
+- Use concise labels and short interpretation notes.
+- Avoid adding personal or sensitive data.
 
-3) Make your changes. If you add new features, update the README.
+## Attribution & credits
 
-4) Submit a PR with a clear description of:
+If you use, fork, or build upon this project, please credit:
 
-- What you changed
-- Why it helps users
-- Any screenshots if the UI changes
+- **Daryoosh Dehestani** (GitHub: `dda-oo`)
+- **RadarRoster** (https://radarroster.com)
 
-## Suggestions for contributors
+Suggested credit line:
 
-- Add data connectors (Workday/SAP) as optional modules.
-- Improve explainability (per-employee drivers).
-- Add CSV export templates for BI tools.
-
-## Attribution
-
-If you publish derivative work, keep visible attribution to
-**Daryoosh Dehestani** and **RadarRoster** in documentation.
+> “Based on the Retention Guard by Daryoosh Dehestani (dda-oo) and RadarRoster.”
