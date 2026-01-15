@@ -1,4 +1,4 @@
-# RadarRoster Retention Guard
+# Retention Guard
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
@@ -150,5 +150,6 @@ to **Daryoosh Dehestani** and **RadarRoster**, and include a visible reference
 in your derivative work or documentation.
 
 ## License
+
 
 MIT License © 2026 Daryoosh Dehestani (RadarRoster)
